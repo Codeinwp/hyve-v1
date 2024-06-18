@@ -1,0 +1,12 @@
+.idea
+node_modules
+logs
+dist
+build
+vendor
+.DS_Store
+.vscode
+todo.md
+*.results.json
+.phpunit.result.cache
+.fleet
